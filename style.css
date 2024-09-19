@@ -1,0 +1,32 @@
+#blue-container{
+    padding: 20px;
+    border: 6pt solid black;
+    width: 210px;
+    height: 220px;
+    background-color: rgb(49, 129, 149);
+}
+
+#yellow-container{
+    padding: 20px;
+    border-style: solid;
+    border-width: 20px 10px;
+    width: 160px;
+    height: 165px;
+    background-color: rgb(237, 204, 18);
+    margin-left: 265px;
+}
+
+#pink-container  {
+    background-color: rgb(208, 78, 99);
+    width: 165px;
+    height: 175px ;
+    border: 6pt solid black;
+    margin-left: 85px;
+
+}
+
+.container{
+    display: grid;
+    justify-content: center;
+
+}
